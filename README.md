@@ -1,63 +1,59 @@
-# Hi! I'm Ryon.
-- I'm 13, B).
+# if you are seeing this then I assume that you want to get to know me??? alright then
+i'm ryon, 13, css and lua programmer, anime weeb, and a professional procrastinator
+you can check out my **personal links** below
 
-# Personal Links
-- Profile - [Ryonfill](https://github.com/Ryonfill)
-- Company/Organization - [Ryon's Snippets](https://github.com/DiscordAddons)
-- Twitter - [@Ryonfill](https://twitter.com/Ryonfill)
-- Discord - `𝖗𝖞𝖔𝖓𝖋𝖎𝖑𝖑 ✂#3571`
+# personal links
+- Profile - [Vampfully](https://github.com/Vampfully)
+- Company/Organization - [Vamppets](https://github.com/Vamppets)
+- Twitter - [Failed to load Twitter...](https://twitter.com/error)
+- Discord - `𝖁𝖆𝖒𝖕𝖋𝖚𝖑𝖑𝖞 ✂#3571`
 
-# Interests
-- Anime
-- Programming
+# interests
+- watching anime
+- programming
 
-# Languages
+# specialities
 - Lua
 - CSS
 
-# Key
+# key
 - 🟢 - Public
 - 🟠 - Archived/Discontinued
 - 🔴 - Private
 - ⚪ - Postponed
 
-# Repos
-
-**ORGANIZATIONAL**
-- [Wildberry - Codeblock Theme](https://github.com/DiscordAddons/Wildberry-Codeblock-Theme) 
+# repos
+- [Wildberry - Codeblock Theme](https://github.com/Vamppets/Wildberry-Codeblock-Theme) 
   - `🟢`
-- [Frosted Glass - Codeblock Theme](https://github.com/DiscordAddons/Frosted-Glass-Codeblock-Theme)
+- [Frosted Glass - Codeblock Theme](https://github.com/Vamppets/Frosted-Glass-Codeblock-Theme)
   - `🟢`
-- [Chroma Syntax Highlighting](https://github.com/DiscordAddons/Chroma-Syntax-Highlighting)
+- [Chroma Syntax Highlighting](https://github.com/Vamppets/Chroma-Syntax-Highlighting)
   - `🟢`
-- [Light Codeblocks](https://github.com/DiscordAddons/Light-Codeblocks)
+- [Light Codeblocks](https://github.com/Vamppets/Light-Codeblocks)
   - `🟢`
-- [Blur Member List](https://github.com/DiscordAddons/BlurMemberList)
+- [Blur Member List](https://github.com/Vamppets/BlurMemberList)
   - `🟢`
-- [Chroma Folders](https://github.com/DiscordAddons/Chroma-Folders)
+- [Chroma Folders](https://github.com/Vamppets/Chroma-Folders)
   - `🟢`
-- [Dark Channels And Unread Bar](https://github.com/DiscordAddons/Dark-Channels-And-Unread-Bar)
+- [Dark Channels And Unread Bar](https://github.com/Vamppets/Dark-Channels-And-Unread-Bar)
   - `🟢`
-- [Blur Folders](https://github.com/DiscordAddons/BlurFolders)
+- [Blur Folders](https://github.com/Vamppets/BlurFolders)
   - `🟢`
-- [DiscordAddons](https://github.com/DiscordAddons/info)
+- [DiscordAddons](https://github.com/Vamppets/info)
   - `🟢`
-- [Chromacord](https://github.com/DiscordAddons/Chromacord)
+- [Chromacord](https://github.com/Vamppets/Chromacord)
   - `🟢 and 🟠`
-- [ChromaSlate](https://github.com/DiscordAddons/ChromaSlate)
+- [ChromaSlate](https://github.com/Vamppets/ChromaSlate)
   - `🔴 and ⚪`
-
-**PERSONAL**
-- [iyplugins](https://github.com/Ryonfill/iyplugins)
+- [iyplugins](https://github.com/Vampfully/iyplugins)
   - `🔴 and 🟠`
-- [LuaS](https://github.com/Ryonfill/LuaS)
+- [LuaS](https://github.com/Vampfully/LuaS)
   - `🔴 and 🟠`
-- [BDSnips](https://github.com/Ryonfill/BDSnips)
+- [BDSnips](https://github.com/Vampfully/BDSnips)
   - `🟠`
-  
-**SPECIAL**
-- [Ryonfill](https://github.com/Ryonfill/Ryonfill) 
+- [Vampfully](https://github.com/Vampfully/Vampfully) 
   - `🟢`
+
 <!--
 Here are some ideas to get you started:
 
