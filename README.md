@@ -3,17 +3,18 @@
 
 Links
 ------------ 
-- [GitHub](https://github.com/Vacuitys)
-- [Twitter](https://twitter.com/Ryonfill)
-- [Discord](https://github.com/discord) - `Vacu#3571`
+- [GitHub](https://github.com/Nightfrights)
+- [Twitter](https://twitter.com/Nightgazingg)
+- [Discord](https://github.com/discord) - `Nightfrights#3571`
 
 Organizations
 ------------ 
 - [Vacudons](https://github.com/Vacudons)
+- [Discord Appearances](https://github.com/Discord-Appearances)
 
 Repos
 ------------
-Too lazy to link them all here, most of my repos are on my [organization](https:/github.com/Vacudons)
+Too lazy to link them all here, most of my repos are on my organization, [Vacudons](https:/github.com/Vacudons)
 
 <!--
 Here are some ideas to get you started:
