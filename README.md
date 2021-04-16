@@ -1,12 +1,11 @@
-# Name's null, but you can call me ryon.
+# ![image](https://user-images.githubusercontent.com/72931279/114954863-6d53fa80-9e29-11eb-8ca3-fd479e41b431.png)
 
-- Proficient in **CSS.**
-- 🛠️ Working on:
-   - [Moonray](https://github.com/BDStyles/moonray)
-   - [Hydrite](https://github.com/BDStyles/hydrite)
-   - [voidfire](https://github.com/BDStyles/voidfire)
-   - [🌠 Stellarburst](https://github.com/BDStyles/stellarburst)
-   - [Imperials](https://github.com/BDStyles/imperials)
+# 🗣️ \<Languages>:
+- `CSS`
+- `Lua (partially)`
+
+# 🛠️ \<Projects>:
+   - [Hydrite](https://github.com/xvicord/hydrite)
 
 ![image](https://user-images.githubusercontent.com/72931279/114631134-0cda8700-9c8a-11eb-8165-e1642d1f29c2.png)
 - "AlexFlipnote"
