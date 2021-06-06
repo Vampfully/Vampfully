@@ -14,9 +14,7 @@ Image | Description
 ![115912588-82d6af00-a43d-11eb-87c2-d79a1167e4c7](https://user-images.githubusercontent.com/72931279/120557499-0506ab80-c3cc-11eb-80dc-d8890a0bd6bc.png) | Synthcord '84 is a deep, dark purple theme that **tries** to give a Synthwave experience, coded with compatibility for BetterDiscord, inspired by [Robb Owen's SynthWave 84 theme.](https://github.com/robb0wen/synthwave-vscode) It was formerly called Amethyst, a dark theme with purple/pinkish colors until I decided to rename and change it to Synthcord 84.
  
 # My Profiles/Socials
-- https://komihiro.carrd.co
-- https://dsc.bio/komihiro
-- https://twitter.com/Komihiroo
+- Nothing here so far...
 
 <!-- e | e
 
