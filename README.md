@@ -7,6 +7,8 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rysworldd&repo=synthcord-frame&theme=radical&hide_border=true&border_radius=20)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=komihiro-development&repo=hyprisms&theme=radical&hide_border=true&border_radius=20)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=komihiro-development&repo=synthcord-84&theme=radical&hide_border=true&border_radius=20)](https://github.com/anuraghazra/github-readme-stats)
 <!-- e | e
 
 <!--
