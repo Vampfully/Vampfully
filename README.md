@@ -1,6 +1,5 @@
 **who am i?**
-- 🃏 I'm `copywheel`.
-- 🎨 Theme developer with 3+ months of experience and Lua programmer.
+- i'm *copywheel*.
 
 **what i do**
 - I waste my time by making discord themes.
